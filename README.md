@@ -22,4 +22,4 @@
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu_usuario/baulito-marketplace.git
+git clone https://github.com/jmartinezchavz/baulito-marketplace.git
