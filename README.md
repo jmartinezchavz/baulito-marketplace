@@ -1,25 +1,67 @@
-# BAULITO - Marketplace de Segunda Mano
+# E-Commerce Website
 
-**BAULITO** es un sistema de marketplace donde los usuarios pueden comprar y vender productos usados como ropa, accesorios y artículos diversos, en un entorno seguro y organizado, similar a una venta de garaje online.
+A Ecommerce Website made with React.js Framework.
 
-## Tecnologías
 
-- Frontend: React.js
-- Backend: Django REST Framework
-- Base de Datos: MySQL
-- Contenedores: Docker
-- Infraestructura: Nginx, Cloud (AWS/Azure)
+## Demo
 
-## Estructura del Proyecto
+https://reactjs-ecommerce-app.vercel.app/
 
-- `/frontend`: Aplicación web React
-- `/backend`: API REST desarrollada en Django
-- `/database`: Scripts SQL
-- `/docs`: Documentación técnica
-- `/diagrams`: Diagramas de arquitectura
+## Features
 
-## Instalación y ejecución
+- Easy to integrate with Backend
+- Fully Responsive
 
-1. Clona el repositorio
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+
+
+
+## Run Locally
+
+Clone the project
+
 ```bash
-git clone https://github.com/jmartinezchavz/baulito-marketplace.git
+  git clone https://github.com/ssahibsingh/React_E-Commerce
+```
+
+Go to the project directory
+
+```bash
+  cd React_E-Commerce
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+
+
+## Tech Stack
+
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Fake Store API](https://fakestoreapi.com/)
+
+## Contributing
+
+Contributions are always welcome!
+Just raise an issue, we will discuss it.
+
+
+## Feedback
+
+If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+
+
